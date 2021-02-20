@@ -19,12 +19,12 @@ Adding the movies_df DataFrame and MovieLens rating CSV [ratings.csv]() to Postg
 | movies table | 
 | ---------------- |
 | ![](https://github.com/Hala-INTJ/Movies-ETL/blob/main/Resources/movies_query_sample.png) | 
-| ![](https://github.com/Hala-INTJ/Movies-ETL/blob/main/Resources/movies_query.png) |
+| ![](https://github.com/Hala-INTJ/Movies-ETL/blob/main/Resources/movies_query.png) |<br/>
 
 | ratings table |
 | ---------------- |
 | ![](https://github.com/Hala-INTJ/Movies-ETL/blob/main/Resources/ratings_query_sample.png) |
-| ![](https://github.com/Hala-INTJ/Movies-ETL/blob/main/Resources/ratings_query.png) |
+| ![](https://github.com/Hala-INTJ/Movies-ETL/blob/main/Resources/ratings_query.png) |<br/>
 
 
 The loading of the ratings data was chuncked and the overal time to load into the database was measured.
